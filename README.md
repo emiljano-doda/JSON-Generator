@@ -1,6 +1,6 @@
 # JSONGenerator
-Simple JSON generation from static array
-Generates a JSON based on GET parameters or not
+- Simple JSON generation from static array
+- Generates a JSON based on GET parameters on the URL
 # Usage
 - Place the files inside XAMPP for example and open one of the following links :
 
